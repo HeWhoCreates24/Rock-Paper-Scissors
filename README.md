@@ -24,11 +24,3 @@ This is a simple and interactive Rock Paper Scissors game built using HTML, CSS,
    - Scissors beats Paper.
    - Paper beats Rock.
 4. Scores are updated after each round.
-
-## Installation
-
-If you'd like to run the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
